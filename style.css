@@ -1,0 +1,13 @@
+
+.namemiddle {
+    color: blue;
+    font-size: 32px;
+    text-align: center;
+}
+
+.photomiddle {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
