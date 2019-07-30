@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>TEAMSIGMA.ORG</title>
+    <title>TeamSigma</title>
 </head>
 
 <STYLE>A {text-decoration: none;} </STYLE>
@@ -37,7 +37,7 @@
 <!-- ============ NAVIGATION BAR SECTION ============== -->
 	<tr>
 		<td colspan="2" valign="middle" align="center" height="30" bgcolor="#FFC845">
-		<a href="about"><font size="4.5">Click HERE to know more about the TeamSigma organization!</font></a>
+		<label><b><font size="4.5">About TeamSigma</font></b></label>
 		</td>
 	</tr>
 </table>
@@ -61,14 +61,16 @@
 <!-- ============ RIGHT COLUMN (CONTENT) ============== -->
 
 		<td width="85%" valign="top" bgcolor="whitesmoke">
-		<h2>Hello There!</h2>
-		<br>
-		Welcome to the official TeamSigma Website!<br>
-		<br>
-		In here, you can find latest information regarding to our activities, the divisions and rosters, together with so much more.<br>
-		<br>
-		Select the division you wanna find out more or click on top to know more about TeamSigma!
+		<h2>Founding</h2>
+		Beginning it's journey back in 2018 as a  CS:GO eSports group named ChinaTown, TeamSigma now have became a multiplatform eSports organization.
+		<P>
+		Now TeamSigma also houses other games such as Minecraft, Brawlhalla, CS 1.6 and mobile games such as PUBGM (TxL subsidiary), Mobile Legends, and those from Supercell.
+		<h2>Those Helped in Makingaking</h2>
+		Charles, Davito, Dinesh, Josh, Keaton, and Rayson
+		<h2>Contact Us</h2>
+		Email us <a href="mailto:dedication.keaton@gmail.com">here</a>.
 		</td>
+		
 	</tr>
 <!-- ============ FOOTER SECTION ============== -->
 	<tr>
