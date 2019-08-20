@@ -1,0 +1,14 @@
+.gallery{
+    width: 48%; 
+    display: inline-block;
+}
+
+.gallery > img {
+    width: 100%
+}
+
+.gallery > div {
+    font-size: 2em;
+    font-family: 'PT Sans', cursive;
+    font-weight: bolder;
+}
